@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caAlunoMaterias\caAlunoMaterias\obj\Debug\caAlunoMaterias.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caAlunoMaterias\caAlunoMaterias\obj\Debug\caAlunoMaterias.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caAlunoMaterias\caAlunoMaterias\bin\Debug\caAlunoMaterias.exe.config
+C:\Users\gap15\source\repos\caAlunoMaterias\caAlunoMaterias\bin\Debug\caAlunoMaterias.exe
+C:\Users\gap15\source\repos\caAlunoMaterias\caAlunoMaterias\bin\Debug\caAlunoMaterias.pdb
+C:\Users\gap15\source\repos\caAlunoMaterias\caAlunoMaterias\obj\Debug\caAlunoMaterias.exe
+C:\Users\gap15\source\repos\caAlunoMaterias\caAlunoMaterias\obj\Debug\caAlunoMaterias.pdb

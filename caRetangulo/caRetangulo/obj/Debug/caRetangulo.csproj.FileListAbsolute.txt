@@ -1,0 +1,7 @@
+c:\users\gap15\source\repos\caRetangulo\caRetangulo\bin\Debug\caRetangulo.exe.config
+c:\users\gap15\source\repos\caRetangulo\caRetangulo\bin\Debug\caRetangulo.exe
+c:\users\gap15\source\repos\caRetangulo\caRetangulo\bin\Debug\caRetangulo.pdb
+c:\users\gap15\source\repos\caRetangulo\caRetangulo\obj\Debug\caRetangulo.csprojAssemblyReference.cache
+c:\users\gap15\source\repos\caRetangulo\caRetangulo\obj\Debug\caRetangulo.csproj.CoreCompileInputs.cache
+c:\users\gap15\source\repos\caRetangulo\caRetangulo\obj\Debug\caRetangulo.exe
+c:\users\gap15\source\repos\caRetangulo\caRetangulo\obj\Debug\caRetangulo.pdb

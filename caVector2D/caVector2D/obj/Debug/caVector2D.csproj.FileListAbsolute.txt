@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caVector2D\caVector2D\bin\Debug\caVector2D.exe.config
+C:\Users\gap15\source\repos\caVector2D\caVector2D\bin\Debug\caVector2D.exe
+C:\Users\gap15\source\repos\caVector2D\caVector2D\bin\Debug\caVector2D.pdb
+C:\Users\gap15\source\repos\caVector2D\caVector2D\obj\Debug\caVector2D.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caVector2D\caVector2D\obj\Debug\caVector2D.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caVector2D\caVector2D\obj\Debug\caVector2D.exe
+C:\Users\gap15\source\repos\caVector2D\caVector2D\obj\Debug\caVector2D.pdb

@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caEstacionamentoTempo\caEstacionamentoTempo\bin\Debug\caEstacionamentoTempo.exe.config
+C:\Users\gap15\source\repos\caEstacionamentoTempo\caEstacionamentoTempo\bin\Debug\caEstacionamentoTempo.exe
+C:\Users\gap15\source\repos\caEstacionamentoTempo\caEstacionamentoTempo\bin\Debug\caEstacionamentoTempo.pdb
+C:\Users\gap15\source\repos\caEstacionamentoTempo\caEstacionamentoTempo\obj\Debug\caEstacionamentoTempo.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caEstacionamentoTempo\caEstacionamentoTempo\obj\Debug\caEstacionamentoTempo.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caEstacionamentoTempo\caEstacionamentoTempo\obj\Debug\caEstacionamentoTempo.exe
+C:\Users\gap15\source\repos\caEstacionamentoTempo\caEstacionamentoTempo\obj\Debug\caEstacionamentoTempo.pdb

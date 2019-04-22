@@ -1,0 +1,10 @@
+C:\Users\gap15\source\repos\wfaMediaAritmetica\wfaMediaAritmetica\bin\Debug\wfaMediaAritmetica.exe.config
+C:\Users\gap15\source\repos\wfaMediaAritmetica\wfaMediaAritmetica\bin\Debug\wfaMediaAritmetica.exe
+C:\Users\gap15\source\repos\wfaMediaAritmetica\wfaMediaAritmetica\bin\Debug\wfaMediaAritmetica.pdb
+C:\Users\gap15\source\repos\wfaMediaAritmetica\wfaMediaAritmetica\obj\Debug\wfaMediaAritmetica.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\wfaMediaAritmetica\wfaMediaAritmetica\obj\Debug\wfaMediaAritmetica.Properties.Resources.resources
+C:\Users\gap15\source\repos\wfaMediaAritmetica\wfaMediaAritmetica\obj\Debug\wfaMediaAritmetica.csproj.GenerateResource.cache
+C:\Users\gap15\source\repos\wfaMediaAritmetica\wfaMediaAritmetica\obj\Debug\wfaMediaAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\wfaMediaAritmetica\wfaMediaAritmetica\obj\Debug\wfaMediaAritmetica.exe
+C:\Users\gap15\source\repos\wfaMediaAritmetica\wfaMediaAritmetica\obj\Debug\wfaMediaAritmetica.pdb
+C:\Users\gap15\source\repos\wfaMediaAritmetica\wfaMediaAritmetica\obj\Debug\wfaMediaAritmetica.formMedia.resources

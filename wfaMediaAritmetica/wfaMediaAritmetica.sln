@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfaMediaAritmetica", "wfaMediaAritmetica\wfaMediaAritmetica.csproj", "{4FE7ED9A-9008-4F9C-BA95-62D60B6E0051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE7ED9A-9008-4F9C-BA95-62D60B6E0051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE7ED9A-9008-4F9C-BA95-62D60B6E0051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE7ED9A-9008-4F9C-BA95-62D60B6E0051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE7ED9A-9008-4F9C-BA95-62D60B6E0051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B679735-0BF2-4169-B93D-507ABD3CC882}
+	EndGlobalSection
+EndGlobal

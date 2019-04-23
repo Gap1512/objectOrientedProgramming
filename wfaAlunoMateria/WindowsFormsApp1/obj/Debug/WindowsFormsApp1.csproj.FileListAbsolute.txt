@@ -1,0 +1,10 @@
+C:\Users\gap15\source\repos\wfaAlunoMateria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\gap15\source\repos\wfaAlunoMateria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\gap15\source\repos\wfaAlunoMateria\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\gap15\source\repos\wfaAlunoMateria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\wfaAlunoMateria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\gap15\source\repos\wfaAlunoMateria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\gap15\source\repos\wfaAlunoMateria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\wfaAlunoMateria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\gap15\source\repos\wfaAlunoMateria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\gap15\source\repos\wfaAlunoMateria\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.fAlunoMateria.resources

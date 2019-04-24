@@ -30,6 +30,7 @@
         {
             this.tabGuias = new System.Windows.Forms.TabControl();
             this.tpAluno = new System.Windows.Forms.TabPage();
+            this.Alunos = new System.Windows.Forms.ListBox();
             this.tbPeriodoAluno = new System.Windows.Forms.TextBox();
             this.tbMatriculaAluno = new System.Windows.Forms.TextBox();
             this.tbNomeAluno = new System.Windows.Forms.TextBox();
@@ -38,15 +39,14 @@
             this.lbMatriculaAluno = new System.Windows.Forms.Label();
             this.lbNomeAluno = new System.Windows.Forms.Label();
             this.tpMateria = new System.Windows.Forms.TabPage();
+            this.btAssociar = new System.Windows.Forms.Button();
+            this.Materias = new System.Windows.Forms.ListBox();
             this.tbCodigoMateria = new System.Windows.Forms.TextBox();
             this.tbNomeMateria = new System.Windows.Forms.TextBox();
             this.btCadastrarMateria = new System.Windows.Forms.Button();
             this.lbCodigoMateria = new System.Windows.Forms.Label();
             this.lbNomeMateria = new System.Windows.Forms.Label();
             this.tpRelatorio = new System.Windows.Forms.TabPage();
-            this.Alunos = new System.Windows.Forms.ListBox();
-            this.Materias = new System.Windows.Forms.ListBox();
-            this.btAssociar = new System.Windows.Forms.Button();
             this.Relatorio = new System.Windows.Forms.ListBox();
             this.tabGuias.SuspendLayout();
             this.tpAluno.SuspendLayout();
@@ -82,6 +82,14 @@
             this.tpAluno.TabIndex = 0;
             this.tpAluno.Text = "Aluno";
             this.tpAluno.UseVisualStyleBackColor = true;
+            // 
+            // Alunos
+            // 
+            this.Alunos.FormattingEnabled = true;
+            this.Alunos.Location = new System.Drawing.Point(462, 12);
+            this.Alunos.Name = "Alunos";
+            this.Alunos.Size = new System.Drawing.Size(308, 199);
+            this.Alunos.TabIndex = 14;
             // 
             // tbPeriodoAluno
             // 
@@ -158,6 +166,25 @@
             this.tpMateria.Text = "Matéria";
             this.tpMateria.UseVisualStyleBackColor = true;
             // 
+            // btAssociar
+            // 
+            this.btAssociar.Location = new System.Drawing.Point(408, 188);
+            this.btAssociar.Name = "btAssociar";
+            this.btAssociar.Size = new System.Drawing.Size(350, 23);
+            this.btAssociar.TabIndex = 16;
+            this.btAssociar.Text = "Associar Aluno E Matéria";
+            this.btAssociar.UseVisualStyleBackColor = true;
+            this.btAssociar.Click += new System.EventHandler(this.btAssociar_Click);
+            // 
+            // Materias
+            // 
+            this.Materias.FormattingEnabled = true;
+            this.Materias.Location = new System.Drawing.Point(408, 25);
+            this.Materias.Name = "Materias";
+            this.Materias.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
+            this.Materias.Size = new System.Drawing.Size(350, 134);
+            this.Materias.TabIndex = 15;
+            // 
             // tbCodigoMateria
             // 
             this.tbCodigoMateria.Location = new System.Drawing.Point(148, 103);
@@ -212,32 +239,6 @@
             this.tpRelatorio.UseVisualStyleBackColor = true;
             this.tpRelatorio.Enter += new System.EventHandler(this.tpRelatorio_Enter);
             this.tpRelatorio.Leave += new System.EventHandler(this.tpRelatorio_Leave);
-            // 
-            // Alunos
-            // 
-            this.Alunos.FormattingEnabled = true;
-            this.Alunos.Location = new System.Drawing.Point(462, 12);
-            this.Alunos.Name = "Alunos";
-            this.Alunos.Size = new System.Drawing.Size(308, 199);
-            this.Alunos.TabIndex = 14;
-            // 
-            // Materias
-            // 
-            this.Materias.FormattingEnabled = true;
-            this.Materias.Location = new System.Drawing.Point(408, 25);
-            this.Materias.Name = "Materias";
-            this.Materias.Size = new System.Drawing.Size(350, 134);
-            this.Materias.TabIndex = 15;
-            // 
-            // btAssociar
-            // 
-            this.btAssociar.Location = new System.Drawing.Point(408, 188);
-            this.btAssociar.Name = "btAssociar";
-            this.btAssociar.Size = new System.Drawing.Size(350, 23);
-            this.btAssociar.TabIndex = 16;
-            this.btAssociar.Text = "Associar Aluno E Matéria";
-            this.btAssociar.UseVisualStyleBackColor = true;
-            this.btAssociar.Click += new System.EventHandler(this.btAssociar_Click);
             // 
             // Relatorio
             // 

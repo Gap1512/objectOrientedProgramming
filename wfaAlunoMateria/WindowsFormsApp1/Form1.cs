@@ -51,6 +51,10 @@ namespace WindowsFormsApp1
 
         private void btCadastrarAluno_Click(object sender, EventArgs e)
         {
+            if (tbNomeAluno.Text == "" || tbMatriculaAluno.Text == "" || tbPeriodoAluno.Text == "")
+            {
+                return;
+            }
             listaAlunos.Add(new Aluno(tbNomeAluno.Text, tbMatriculaAluno.Text, int.Parse(tbPeriodoAluno.Text)));
             Alunos.Items.Add(tbNomeAluno.Text);
             tbNomeAluno.Text = "";
@@ -61,14 +65,23 @@ namespace WindowsFormsApp1
 
         private void btCadastrarMateria_Click(object sender, EventArgs e)
         {
+            if (tbNomeMateria.Text == "" || tbCodigoMateria.Text == "")
+            {
+                return;
+            }
             listaMaterias.Add(new Materia(tbNomeMateria.Text, tbCodigoMateria.Text));
             Materias.Items.Add(tbNomeMateria.Text);
             tbNomeMateria.Text = "";
             tbCodigoMateria.Text = "";
+            Materias.SetSelected(Materias.Items.Count - 1, true);
         }
-
+        
         private void btAssociar_Click(object sender, EventArgs e)
         {
+            if (Materias.Items.Count == 0 || Alunos.Items.Count == 0)
+            {
+                return;
+            }
             achaAluno(Alunos.Items[Alunos.SelectedIndex].ToString(), listaAlunos).associaMateria(achaMateria(Materias.Items[Materias.SelectedIndex].ToString(), listaMaterias));
         }
 

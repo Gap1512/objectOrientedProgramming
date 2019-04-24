@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caHeranca\caHeranca\bin\Debug\caHeranca.exe.config
+C:\Users\gap15\source\repos\caHeranca\caHeranca\bin\Debug\caHeranca.exe
+C:\Users\gap15\source\repos\caHeranca\caHeranca\bin\Debug\caHeranca.pdb
+C:\Users\gap15\source\repos\caHeranca\caHeranca\obj\Debug\caHeranca.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caHeranca\caHeranca\obj\Debug\caHeranca.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caHeranca\caHeranca\obj\Debug\caHeranca.exe
+C:\Users\gap15\source\repos\caHeranca\caHeranca\obj\Debug\caHeranca.pdb

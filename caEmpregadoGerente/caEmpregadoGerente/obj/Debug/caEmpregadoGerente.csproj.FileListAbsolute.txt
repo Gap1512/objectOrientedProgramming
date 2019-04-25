@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caEmpregadoGerente\caEmpregadoGerente\bin\Debug\caEmpregadoGerente.exe.config
+C:\Users\gap15\source\repos\caEmpregadoGerente\caEmpregadoGerente\bin\Debug\caEmpregadoGerente.exe
+C:\Users\gap15\source\repos\caEmpregadoGerente\caEmpregadoGerente\bin\Debug\caEmpregadoGerente.pdb
+C:\Users\gap15\source\repos\caEmpregadoGerente\caEmpregadoGerente\obj\Debug\caEmpregadoGerente.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caEmpregadoGerente\caEmpregadoGerente\obj\Debug\caEmpregadoGerente.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caEmpregadoGerente\caEmpregadoGerente\obj\Debug\caEmpregadoGerente.exe
+C:\Users\gap15\source\repos\caEmpregadoGerente\caEmpregadoGerente\obj\Debug\caEmpregadoGerente.pdb

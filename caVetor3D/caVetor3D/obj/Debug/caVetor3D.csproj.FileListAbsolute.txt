@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caVetor3D\caVetor3D\bin\Debug\caVetor3D.exe.config
+C:\Users\gap15\source\repos\caVetor3D\caVetor3D\bin\Debug\caVetor3D.exe
+C:\Users\gap15\source\repos\caVetor3D\caVetor3D\bin\Debug\caVetor3D.pdb
+C:\Users\gap15\source\repos\caVetor3D\caVetor3D\obj\Debug\caVetor3D.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caVetor3D\caVetor3D\obj\Debug\caVetor3D.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caVetor3D\caVetor3D\obj\Debug\caVetor3D.exe
+C:\Users\gap15\source\repos\caVetor3D\caVetor3D\obj\Debug\caVetor3D.pdb

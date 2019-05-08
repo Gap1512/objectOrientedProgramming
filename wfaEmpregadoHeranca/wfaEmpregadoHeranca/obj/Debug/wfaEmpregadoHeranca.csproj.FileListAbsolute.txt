@@ -1,0 +1,10 @@
+C:\Users\gap15\source\repos\wfaEmpregadoHeranca\wfaEmpregadoHeranca\bin\Debug\wfaEmpregadoHeranca.exe.config
+C:\Users\gap15\source\repos\wfaEmpregadoHeranca\wfaEmpregadoHeranca\bin\Debug\wfaEmpregadoHeranca.exe
+C:\Users\gap15\source\repos\wfaEmpregadoHeranca\wfaEmpregadoHeranca\bin\Debug\wfaEmpregadoHeranca.pdb
+C:\Users\gap15\source\repos\wfaEmpregadoHeranca\wfaEmpregadoHeranca\obj\Debug\wfaEmpregadoHeranca.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\wfaEmpregadoHeranca\wfaEmpregadoHeranca\obj\Debug\wfaEmpregadoHeranca.Janela1.resources
+C:\Users\gap15\source\repos\wfaEmpregadoHeranca\wfaEmpregadoHeranca\obj\Debug\wfaEmpregadoHeranca.Properties.Resources.resources
+C:\Users\gap15\source\repos\wfaEmpregadoHeranca\wfaEmpregadoHeranca\obj\Debug\wfaEmpregadoHeranca.csproj.GenerateResource.cache
+C:\Users\gap15\source\repos\wfaEmpregadoHeranca\wfaEmpregadoHeranca\obj\Debug\wfaEmpregadoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\wfaEmpregadoHeranca\wfaEmpregadoHeranca\obj\Debug\wfaEmpregadoHeranca.exe
+C:\Users\gap15\source\repos\wfaEmpregadoHeranca\wfaEmpregadoHeranca\obj\Debug\wfaEmpregadoHeranca.pdb

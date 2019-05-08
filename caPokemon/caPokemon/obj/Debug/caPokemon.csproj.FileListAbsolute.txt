@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caPokemon\caPokemon\bin\Debug\caPokemon.exe.config
+C:\Users\gap15\source\repos\caPokemon\caPokemon\bin\Debug\caPokemon.exe
+C:\Users\gap15\source\repos\caPokemon\caPokemon\bin\Debug\caPokemon.pdb
+C:\Users\gap15\source\repos\caPokemon\caPokemon\obj\Debug\caPokemon.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caPokemon\caPokemon\obj\Debug\caPokemon.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caPokemon\caPokemon\obj\Debug\caPokemon.exe
+C:\Users\gap15\source\repos\caPokemon\caPokemon\obj\Debug\caPokemon.pdb

@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caVeiculos\caVeiculos\bin\Debug\caVeiculos.exe.config
+C:\Users\gap15\source\repos\caVeiculos\caVeiculos\bin\Debug\caVeiculos.exe
+C:\Users\gap15\source\repos\caVeiculos\caVeiculos\bin\Debug\caVeiculos.pdb
+C:\Users\gap15\source\repos\caVeiculos\caVeiculos\obj\Debug\caVeiculos.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caVeiculos\caVeiculos\obj\Debug\caVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caVeiculos\caVeiculos\obj\Debug\caVeiculos.exe
+C:\Users\gap15\source\repos\caVeiculos\caVeiculos\obj\Debug\caVeiculos.pdb

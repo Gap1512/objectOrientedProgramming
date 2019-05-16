@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caControlePagamentos\caControlePagamentos\bin\Debug\caControlePagamentos.exe.config
+C:\Users\gap15\source\repos\caControlePagamentos\caControlePagamentos\bin\Debug\caControlePagamentos.exe
+C:\Users\gap15\source\repos\caControlePagamentos\caControlePagamentos\bin\Debug\caControlePagamentos.pdb
+C:\Users\gap15\source\repos\caControlePagamentos\caControlePagamentos\obj\Debug\caControlePagamentos.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caControlePagamentos\caControlePagamentos\obj\Debug\caControlePagamentos.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caControlePagamentos\caControlePagamentos\obj\Debug\caControlePagamentos.exe
+C:\Users\gap15\source\repos\caControlePagamentos\caControlePagamentos\obj\Debug\caControlePagamentos.pdb

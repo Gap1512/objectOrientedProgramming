@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caResistor\caResistor\bin\Debug\caResistor.exe.config
+C:\Users\gap15\source\repos\caResistor\caResistor\bin\Debug\caResistor.exe
+C:\Users\gap15\source\repos\caResistor\caResistor\bin\Debug\caResistor.pdb
+C:\Users\gap15\source\repos\caResistor\caResistor\obj\Debug\caResistor.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caResistor\caResistor\obj\Debug\caResistor.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caResistor\caResistor\obj\Debug\caResistor.exe
+C:\Users\gap15\source\repos\caResistor\caResistor\obj\Debug\caResistor.pdb

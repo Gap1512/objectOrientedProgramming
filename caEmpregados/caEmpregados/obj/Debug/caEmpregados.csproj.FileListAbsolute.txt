@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caEmpregados\caEmpregados\bin\Debug\caEmpregados.exe.config
+C:\Users\gap15\source\repos\caEmpregados\caEmpregados\bin\Debug\caEmpregados.exe
+C:\Users\gap15\source\repos\caEmpregados\caEmpregados\bin\Debug\caEmpregados.pdb
+C:\Users\gap15\source\repos\caEmpregados\caEmpregados\obj\Debug\caEmpregados.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caEmpregados\caEmpregados\obj\Debug\caEmpregados.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caEmpregados\caEmpregados\obj\Debug\caEmpregados.exe
+C:\Users\gap15\source\repos\caEmpregados\caEmpregados\obj\Debug\caEmpregados.pdb

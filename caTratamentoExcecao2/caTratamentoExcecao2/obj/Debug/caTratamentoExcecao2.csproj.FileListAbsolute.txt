@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caTratamentoExcecao2\caTratamentoExcecao2\bin\Debug\caTratamentoExcecao2.exe.config
+C:\Users\gap15\source\repos\caTratamentoExcecao2\caTratamentoExcecao2\bin\Debug\caTratamentoExcecao2.exe
+C:\Users\gap15\source\repos\caTratamentoExcecao2\caTratamentoExcecao2\bin\Debug\caTratamentoExcecao2.pdb
+C:\Users\gap15\source\repos\caTratamentoExcecao2\caTratamentoExcecao2\obj\Debug\caTratamentoExcecao2.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caTratamentoExcecao2\caTratamentoExcecao2\obj\Debug\caTratamentoExcecao2.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caTratamentoExcecao2\caTratamentoExcecao2\obj\Debug\caTratamentoExcecao2.exe
+C:\Users\gap15\source\repos\caTratamentoExcecao2\caTratamentoExcecao2\obj\Debug\caTratamentoExcecao2.pdb

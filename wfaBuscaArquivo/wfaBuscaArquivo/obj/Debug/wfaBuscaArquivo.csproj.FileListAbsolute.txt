@@ -1,0 +1,9 @@
+C:\Users\gap15\source\repos\wfaBuscaArquivo\wfaBuscaArquivo\bin\Debug\wfaBuscaArquivo.exe.config
+C:\Users\gap15\source\repos\wfaBuscaArquivo\wfaBuscaArquivo\bin\Debug\wfaBuscaArquivo.exe
+C:\Users\gap15\source\repos\wfaBuscaArquivo\wfaBuscaArquivo\bin\Debug\wfaBuscaArquivo.pdb
+C:\Users\gap15\source\repos\wfaBuscaArquivo\wfaBuscaArquivo\obj\Debug\wfaBuscaArquivo.formMain.resources
+C:\Users\gap15\source\repos\wfaBuscaArquivo\wfaBuscaArquivo\obj\Debug\wfaBuscaArquivo.Properties.Resources.resources
+C:\Users\gap15\source\repos\wfaBuscaArquivo\wfaBuscaArquivo\obj\Debug\wfaBuscaArquivo.csproj.GenerateResource.cache
+C:\Users\gap15\source\repos\wfaBuscaArquivo\wfaBuscaArquivo\obj\Debug\wfaBuscaArquivo.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\wfaBuscaArquivo\wfaBuscaArquivo\obj\Debug\wfaBuscaArquivo.exe
+C:\Users\gap15\source\repos\wfaBuscaArquivo\wfaBuscaArquivo\obj\Debug\wfaBuscaArquivo.pdb

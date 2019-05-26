@@ -1,0 +1,10 @@
+C:\Users\gap15\source\repos\wfaPilha\wfaPilha\bin\Debug\wfaPilha.exe.config
+C:\Users\gap15\source\repos\wfaPilha\wfaPilha\bin\Debug\wfaPilha.exe
+C:\Users\gap15\source\repos\wfaPilha\wfaPilha\bin\Debug\wfaPilha.pdb
+C:\Users\gap15\source\repos\wfaPilha\wfaPilha\obj\Debug\wfaPilha.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\wfaPilha\wfaPilha\obj\Debug\wfaPilha.formPilha.resources
+C:\Users\gap15\source\repos\wfaPilha\wfaPilha\obj\Debug\wfaPilha.Properties.Resources.resources
+C:\Users\gap15\source\repos\wfaPilha\wfaPilha\obj\Debug\wfaPilha.csproj.GenerateResource.cache
+C:\Users\gap15\source\repos\wfaPilha\wfaPilha\obj\Debug\wfaPilha.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\wfaPilha\wfaPilha\obj\Debug\wfaPilha.exe
+C:\Users\gap15\source\repos\wfaPilha\wfaPilha\obj\Debug\wfaPilha.pdb

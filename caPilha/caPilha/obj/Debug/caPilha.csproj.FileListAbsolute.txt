@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caPilha\caPilha\bin\Debug\caPilha.exe.config
+C:\Users\gap15\source\repos\caPilha\caPilha\bin\Debug\caPilha.exe
+C:\Users\gap15\source\repos\caPilha\caPilha\bin\Debug\caPilha.pdb
+C:\Users\gap15\source\repos\caPilha\caPilha\obj\Debug\caPilha.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caPilha\caPilha\obj\Debug\caPilha.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caPilha\caPilha\obj\Debug\caPilha.exe
+C:\Users\gap15\source\repos\caPilha\caPilha\obj\Debug\caPilha.pdb

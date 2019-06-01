@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caTestaExpressoes\caTestaExpressoes\bin\Debug\caTestaExpressoes.exe.config
+C:\Users\gap15\source\repos\caTestaExpressoes\caTestaExpressoes\bin\Debug\caTestaExpressoes.exe
+C:\Users\gap15\source\repos\caTestaExpressoes\caTestaExpressoes\bin\Debug\caTestaExpressoes.pdb
+C:\Users\gap15\source\repos\caTestaExpressoes\caTestaExpressoes\obj\Debug\caTestaExpressoes.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caTestaExpressoes\caTestaExpressoes\obj\Debug\caTestaExpressoes.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caTestaExpressoes\caTestaExpressoes\obj\Debug\caTestaExpressoes.exe
+C:\Users\gap15\source\repos\caTestaExpressoes\caTestaExpressoes\obj\Debug\caTestaExpressoes.pdb

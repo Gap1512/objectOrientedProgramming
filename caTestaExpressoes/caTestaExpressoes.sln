@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "caTestaExpressoes", "caTestaExpressoes\caTestaExpressoes.csproj", "{163B0CED-E388-4FC9-874D-7E98C4AAF72D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{163B0CED-E388-4FC9-874D-7E98C4AAF72D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{163B0CED-E388-4FC9-874D-7E98C4AAF72D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{163B0CED-E388-4FC9-874D-7E98C4AAF72D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{163B0CED-E388-4FC9-874D-7E98C4AAF72D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C2FDCF5-D44C-4D35-8DC0-AA2C0EF11C43}
+	EndGlobalSection
+EndGlobal

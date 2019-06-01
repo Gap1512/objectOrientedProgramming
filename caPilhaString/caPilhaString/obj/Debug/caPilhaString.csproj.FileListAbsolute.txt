@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caPilhaString\caPilhaString\bin\Debug\caPilhaString.exe.config
+C:\Users\gap15\source\repos\caPilhaString\caPilhaString\bin\Debug\caPilhaString.exe
+C:\Users\gap15\source\repos\caPilhaString\caPilhaString\bin\Debug\caPilhaString.pdb
+C:\Users\gap15\source\repos\caPilhaString\caPilhaString\obj\Debug\caPilhaString.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caPilhaString\caPilhaString\obj\Debug\caPilhaString.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caPilhaString\caPilhaString\obj\Debug\caPilhaString.exe
+C:\Users\gap15\source\repos\caPilhaString\caPilhaString\obj\Debug\caPilhaString.pdb

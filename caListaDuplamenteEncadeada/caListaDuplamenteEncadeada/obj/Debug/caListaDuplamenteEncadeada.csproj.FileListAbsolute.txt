@@ -1,0 +1,7 @@
+C:\Users\gap15\source\repos\caListaDuplamenteEncadeada\caListaDuplamenteEncadeada\bin\Debug\caListaDuplamenteEncadeada.exe.config
+C:\Users\gap15\source\repos\caListaDuplamenteEncadeada\caListaDuplamenteEncadeada\bin\Debug\caListaDuplamenteEncadeada.exe
+C:\Users\gap15\source\repos\caListaDuplamenteEncadeada\caListaDuplamenteEncadeada\bin\Debug\caListaDuplamenteEncadeada.pdb
+C:\Users\gap15\source\repos\caListaDuplamenteEncadeada\caListaDuplamenteEncadeada\obj\Debug\caListaDuplamenteEncadeada.csprojAssemblyReference.cache
+C:\Users\gap15\source\repos\caListaDuplamenteEncadeada\caListaDuplamenteEncadeada\obj\Debug\caListaDuplamenteEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\gap15\source\repos\caListaDuplamenteEncadeada\caListaDuplamenteEncadeada\obj\Debug\caListaDuplamenteEncadeada.exe
+C:\Users\gap15\source\repos\caListaDuplamenteEncadeada\caListaDuplamenteEncadeada\obj\Debug\caListaDuplamenteEncadeada.pdb
